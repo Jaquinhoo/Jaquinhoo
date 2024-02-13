@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo! Sou o Jackson Junior 👋
+### Olá, seja bem-vindo! Sou o Jackson Goudinho 👋
 
 - 🌱 Estou estudando Java
 - 📫 Contato: jacksongjunior@gmail.com
